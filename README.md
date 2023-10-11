@@ -8,6 +8,9 @@
   </ul>
 </div>
 
+[![Linkedin](https://img.shields.io/badge/Linkedin-Henry%20Nguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-nguyen0/)](https://www.linkedin.com/in/henry-nguyen0/)
+[![website](https://img.shields.io/badge/Personal%20Website-tinyurl.com/henryng/-purple?style=flat-square&logo=Vercel)](https://my-portfolio-lyart-nine-24.vercel.app)
+
 
 <!--- snake -->
 <div align="center">
@@ -27,7 +30,7 @@
 
 - 💬 Ask me about **Competitive Programming, AWS, React, Nodejs, MongoDB**
 
-- 📫 Feel free to reach me out throuh my personal email **hungnguyenquoc8a2@gmail.com**
+- 📫 I'm currently looking for grad/junior roles. So if you know any role, feel free to reach me out throuh my personal email **hungnguyenquoc8a2@gmail.com**, I would appreciate that.
 <!--Intro end-->
 
 
@@ -80,20 +83,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,github,html,java,js,kotlin,swift,linux,md,materialui,mongodb,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode&perline=14" />
   </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/henry-nguyen0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/hnq.2002/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://my-portfolio-lyart-nine-24.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 </p>
