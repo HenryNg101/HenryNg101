@@ -22,7 +22,7 @@
 <!--Intro start-->
 - 🏫 I'm currently studying Bachelor of IT at the University of South Australia
 
-- ☁️ I've keen interest in fullstack development and competitive programming. So,I'm learning more about **React, Typescript, Golang** (and some other technologies)
+- ☁️ I've keen interest in fullstack development and competitive programming. So,I'm learning more about **React, Typescript, Java** (and some other technologies)
 
 - 👑 I also love to compete in programming competitions, like hackathons, algo trading, or competitive programming.
 
