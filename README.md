@@ -11,14 +11,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Henry%20Nguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-nguyen0/)](https://www.linkedin.com/in/henry-nguyen0/)
 [![website](https://img.shields.io/badge/Personal%20Website-tinyurl.com/henryng/-purple?style=flat-square&logo=Vercel)](https://my-portfolio-lyart-nine-24.vercel.app)
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--Intro start-->
 - 🏫 I'm currently studying Bachelor of IT at the University of South Australia
 
