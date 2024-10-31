@@ -22,7 +22,8 @@ jobs:
 
       - name: Run compile script
         run: |
-          pandoc "Henry Nguyen's resume.md" -o "Henry Nguyen's resume.pdf" \
+          sudo pandoc "Henry Nguyen's resume.md" -o "Henry Nguyen's resume.pdf" \
+            --metadata title="Henry Nguyen's resume" \
             --css=style.css \
             --pdf-engine=wkhtmltopdf \
             --variable margin-top=30pt \
