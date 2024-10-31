@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Check out repository
@@ -16,8 +16,11 @@ jobs:
 
       - name: Set up Pandoc and wkhtmltopdf engine
         run: |
-          brew install pandoc
-          brew install wkhtmltopdf
+          sudo apt-get update
+          sudo apt-get install wget
+          wget https://github.com/jgm/pandoc/releases/download/3.5/pandoc-3.5-1-amd64.deb
+          sudo dpkg -i pandoc-3.5-1-amd64.deb
+          sudo apt-get install -y wkhtmltopdf
 
       - name: Getting tools versions
         run: |
