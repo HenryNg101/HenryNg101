@@ -33,4 +33,4 @@ jobs:
         uses: actions/upload-artifact@v4.4.3
         with:
           name: resume-pdf
-          path: "Henry Nguyen's resume.pdf"
+          path: "./Resume/Henry Nguyen's resume.pdf"
