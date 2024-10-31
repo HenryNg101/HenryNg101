@@ -25,7 +25,8 @@ jobs:
           ls
 
       - name: Run compile script
-        run: pandoc "Henry Nguyen's resume.md" -o "Henry Nguyen's resume.pdf" \
+        run: |
+          pandoc "Henry Nguyen's resume.md" -o "Henry Nguyen's resume.pdf" \
             --css="resume_style.css" \
             --pdf-engine=wkhtmltopdf \
             --variable margin-top=30pt \
