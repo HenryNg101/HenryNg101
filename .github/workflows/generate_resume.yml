@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
 
     steps:
       - name: Check out repository
@@ -16,9 +16,8 @@ jobs:
 
       - name: Set up Pandoc and wkhtmltopdf engine
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc
-          sudo apt-get install -y wkhtmltopdf
+          brew install pandoc
+          brew install wkhtmltopdf
 
       - name: Getting tools versions
         run: |
@@ -27,7 +26,7 @@ jobs:
 
       - name: Run compile script
         run: |
-          sudo pandoc "Henry Nguyen's resume.md" -o "Henry Nguyen's resume.pdf" \
+          pandoc "Henry Nguyen's resume.md" -o "Henry Nguyen's resume.pdf" \
             --css=style.css \
             --pdf-engine=wkhtmltopdf \
             --pdf-engine-opt="--enable-local-file-access" \
