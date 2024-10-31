@@ -30,7 +30,7 @@ jobs:
       - name: Run compile script
         run: |
           pandoc "./Resume/Henry Nguyen's resume.md" -o "Henry Nguyen's resume.pdf" \
-            --css=style.css \
+            --css="./Resume/style.css" \
             --pdf-engine=wkhtmltopdf \
             --pdf-engine-opt="--enable-local-file-access" \
             --variable margin-top=30pt \
