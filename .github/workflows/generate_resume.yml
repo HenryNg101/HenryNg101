@@ -20,6 +20,11 @@ jobs:
           sudo apt-get install -y pandoc
           sudo apt-get install -y wkhtmltopdf
 
+      - name: Getting tools versions
+        run: |
+          pandoc --version
+          wkhtmltopdf --version
+
       - name: Run compile script
         run: |
           sudo pandoc "Henry Nguyen's resume.md" -o "Henry Nguyen's resume.pdf" \
