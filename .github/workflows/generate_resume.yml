@@ -25,19 +25,10 @@ jobs:
           wkhtmltopdf --version
 
       - name: Run compile script
-        run: |
-          pandoc "Henry Nguyen's resume.md" -o "Henry Nguyen's resume.pdf" \
-            --css=style.css \
-            --pdf-engine=wkhtmltopdf \
-            --pdf-engine-opt="--enable-local-file-access" \
-            --variable margin-top=30pt \
-            --variable margin-left=30pt \
-            --variable margin-right=30pt \
-            --variable margin-bottom=30pt \
-            --variable pagestyle=empty
+        run: ./Resume/compile.sh
 
-      - name: Upload Resume PDF
+      - name: Upload PDF of the resume
         uses: actions/upload-artifact@v4.4.3
         with:
           name: resume-pdf
-          path: "./Henry Nguyen's resume.pdf"  # Adjust this to match the output file name
+          path: "Resume/Henry Nguyen's resume.pdf"

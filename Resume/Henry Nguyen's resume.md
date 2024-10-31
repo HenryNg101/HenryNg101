@@ -1,4 +1,4 @@
-# Henry Nguyen
+# \centering Henry Nguyen
 
 |     |  |   |
 | -------- | ------- | ------- |
@@ -9,7 +9,7 @@
 ---
 
 |     |  |
-| :-------- | -------: |
+| :-------- | -: |
 | **University of South Australia** | **Aug 2020 - Jul 2024** |
 
 Bachelor of Information Technology (Software Development) with International Merit Scholarship
@@ -19,14 +19,14 @@ Bachelor of Information Technology (Software Development) with International Mer
 ---
 
 |     |  |
-| :-------- | -------: |
+| :-------- | -: |
 | **Software Engineer Intern - Optimatics** | **Mar 2024 - Jun 2024** |
 
 - Technologies: **C# (Nant, Cake Frosting), Powershell, .NET, TeamCity**
 - Led the migration of build scripts and configs for EABench's CI/CD pipeline, improving efficiency and maintainability, while collaborated with the development team to manage and streamline build processes
 
 |     |  |
-| :-------- | -------: |
+| :-------- | -: |
 | **Fullstack Software Engineer Intern - Maptek** | **Nov 2022 - Feb 2023** |
 
 - Technologies: **React, Typescript, AWS (CloudFormation, DynamoDB, S3, RDS, etc.), Flask, Docker**
@@ -46,7 +46,7 @@ Bachelor of Information Technology (Software Development) with International Mer
 ---
 
 |     |  |
-| :-------- | -------: |
+| :-------- | -: |
 | **Portfolio Website** ([hrn.vercel.app/projects?id=1](https://hrn.vercel.app/projects?id=1)) | **Nov 2023** |
 
 - Technologies: **Spring Java, React, MongoDB Atlas, Vercel, Azure**
@@ -54,7 +54,7 @@ Bachelor of Information Technology (Software Development) with International Mer
 - Future enhancements will focus on completing the backend architecture and implementing NLP features for advanced blog content summarization
 
 |     |  |
-| :-------- | -------: |
+| :-------- | -: |
 | **Freight Frenzy Scoring App** ([hrn.vercel.app/projects?id=3](https://hrn.vercel.app/projects?id=3)) | **Nov 2021** |
 
 - Technologies: **Swift, Kotlin, Google Maps API**
