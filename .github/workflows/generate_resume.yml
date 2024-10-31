@@ -23,7 +23,6 @@ jobs:
       - name: Run compile script
         run: |
           sudo pandoc "Henry Nguyen's resume.md" -o "Henry Nguyen's resume.pdf" \
-            --metadata title="Henry Nguyen's resume" \
             --css=style.css \
             --pdf-engine=wkhtmltopdf \
             --pdf-engine-opt="--enable-local-file-access" \
