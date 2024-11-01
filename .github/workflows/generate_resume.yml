@@ -29,8 +29,14 @@ jobs:
           cd Resume
           . ./compile.sh
 
-      - name: Upload PDF of the resume
-        uses: actions/upload-artifact@v4.4.3
+      - name: Set and create Tag
+        run: |
+          echo "TAG_NAME=v$(date +'%Y-%m-%d-%H-%M-%S')" >> $GITHUB_ENV
+          git tag ${{ env.TAG_NAME }}
+          git push origin ${{ env.TAG_NAME }}
+
+      - name: Release artifacts
+        uses: softprops/action-gh-release@v2
         with:
-          name: resume-pdf
-          path: "./Resume/Henry Nguyen's resume.pdf"
+          files: "./Resume/Henry Nguyen's resume.pdf"
+          tag_name: ${{ env.TAG_NAME }}
