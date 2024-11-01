@@ -41,5 +41,5 @@ jobs:
       - name: Release artifacts
         uses: softprops/action-gh-release@v2
         with:
-          files: "./Resume/Henry Nguyen's resume.pdf"
+          files: "./Resume/Henry_Nguyen_resume.pdf"
           tag_name: ${{ env.TAG_NAME }}

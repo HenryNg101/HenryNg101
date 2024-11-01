@@ -1,8 +1,8 @@
 # \centering Henry Nguyen
 
 |     |  |   |
-| -------- | ------- | ------- |
-| hungnguyenquoc8a2@gmail.com <br> +61491733853  | Portfolio: [henryng.vercel.app](https://henryng.vercel.app/about) | [linkedin.com/in/henry-nguyen0/](https://linkedin.com/in/henry-nguyen0/) <br> [github.com/HenryNg101](https://github.com/HenryNg101) |
+| :- | :-: | -: |
+| hungnguyenquoc8a2@gmail.com <br> +61491733853  | Portfolio: [henryng.vercel.app](https://henryng.vercel.app/about) <br> Adelaide, Australia | [linkedin.com/in/henry-nguyen0/](https://linkedin.com/in/henry-nguyen0/) <br> [github.com/HenryNg101](https://github.com/HenryNg101) |
 
 ## EDUCATION
 
@@ -30,7 +30,8 @@ Bachelor of Information Technology (Software Development) with International Mer
 | **Fullstack Software Engineer Intern - Maptek** | **Nov 2022 - Feb 2023** |
 
 - Technologies: **React, Typescript, AWS (CloudFormation, DynamoDB, S3, RDS, etc.), Flask, Docker**
-- Developed a comprehensive dashboard to monitor internal tools and products, serving approximately **20,000** users and improving operational visibility.
+- Developed a comprehensive dashboard to monitor internal tools and products, serving approximately**20,000** users and improving operational visibility.
+- Spearheaded the creation of detailed documentation, which enhanced team development efficiency and streamlined the onboarding process for new hires.
 
 ## TECHNICAL SKILLS
 
@@ -63,11 +64,6 @@ Bachelor of Information Technology (Software Development) with International Mer
 ## COMMUNITY ENGAGEMENT & AWARDS
 
 ---
-
-|     |  |
-| :-------- | -: |
-| **Hacktoberfest** | **Oct 2024** |
-Making impactful contributions to open source projects, notably **AWS CDK** ([https://github.com/aws/aws-cdk](https://github.com/aws/aws-cdk)), through participation in a **DigitalOcean**’s event focused on open source
 
 |     |  |
 | :-------- | -: |
