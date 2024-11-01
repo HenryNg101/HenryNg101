@@ -33,11 +33,8 @@ jobs:
           . ./compile.sh
 
       - name: Set and create Tag
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "TAG_NAME=v$(date +'%Y-%m-%d-%H-%M-%S')" >> $GITHUB_ENV
-          git remote -v
           git tag ${{ env.TAG_NAME }}
           git push origin ${{ env.TAG_NAME }}
 
@@ -46,4 +43,3 @@ jobs:
         with:
           files: "./Resume/Henry Nguyen's resume.pdf"
           tag_name: ${{ env.TAG_NAME }}
-          token: ${{ secrets.GITHUB_TOKEN }}
