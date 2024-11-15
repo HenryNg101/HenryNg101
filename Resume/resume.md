@@ -22,8 +22,8 @@ Bachelor of Information Technology (Software Development) with International Mer
 | :-------- | -: |
 | **Software Engineer Intern - Optimatics** | **Mar 2024 - Jun 2024** |
 
-- Spearheaded the migration of the **CI/CD pipeline** for EABench, moving from legacy**Powershell** scripts and **Nant** configs to a more streamlined **C# Cake**-based approach, built on the **.NET** framework. This transition improved maintainability, debugging, and scalability of the build process.
-- Optimized the **CI/CD pipeline** for EABench by integrating it with**TeamCity**, automating key processes such as build orchestration, authentication, testing, dependencies management and installation.
+- Spearheaded the migration of the **CI/CD pipeline** for EABench, moving from legacy **Powershell** scripts and **Nant** configs to a more streamlined **C# Cake**-based approach, built on the **.NET** framework. This transition improved maintainability, debugging, and scalability of the build process.
+- Integrated the build process with with **TeamCity**, automating key processes such as build orchestration, authentication, testing, dependencies management and installation.
 - Collaborated closely with the development team to identify and resolve issues in the build pipeline, ensuring reliable deployments and faster delivery of features.
 
 |     |  |
@@ -42,7 +42,7 @@ Bachelor of Information Technology (Software Development) with International Mer
 | :-------- | -: |
 | **Portfolio Website** ([hrn.vercel.app/projects/1](https://hrn.vercel.app/projects/1)) | **Nov 2023** |
 
-- Designed and developed a personal portfolio website to showcase projects, skills, and contact information, using **React** and **Typescript**, then migrated to **NextJS** for server-side rendering and improved performance.
+- Designed and developed a personal portfolio website to showcase projects, skills, and contact information, using **React** and **Typescript**, and **NextJS** for server-side rendering and improved performance.
 - Implemented a fully responsive design to ensure optimal usability of the web app across different devices and screen sizes, and deployed the application via **Vercel** for seamless CI/CD integration and reliable hosting.
 
 |     |  |
@@ -60,7 +60,7 @@ Bachelor of Information Technology (Software Development) with International Mer
 |     |  |
 | :-------- | -: |
 | **Optimatics Coding Challenge** | **Dec 2023** |
-Won the **first place** in the Advent of Code’s private leaderboard created by Optimatics, for the company’s competition
+Won the **first place** in Optimatic's Advent of Code competition
 
 |     |  |
 | :-------- | -: |
@@ -70,4 +70,4 @@ Refactored, modernised, and maintained the codebase for the club’s website, se
 |     |  |
 | :-------- | -: |
 | **UNIHACK Hackathon - MedBuddy** ([hrn.vercel.app/projects/4](https://hrn.vercel.app/projects/4)) | **Feb 2022** |
-Collaborated with a team of developers to design and develop a health-focused Android app using**Flutter** framework and **Dart** programming language, leveraging machine learning technologies. Contributed primarily to the UI design and integrated the backend with REST APIs to ensure seamless functionality
+Collaborated with a team of developers to design and develop a health-focused Android app using **Flutter** framework and **Dart** programming language, leveraging machine learning technologies. Contributed primarily to the UI design and integrated the backend with REST APIs to ensure seamless functionality
