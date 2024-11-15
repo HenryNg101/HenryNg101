@@ -9,7 +9,7 @@
 </div>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Henry%20Nguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-nguyen0/)](https://www.linkedin.com/in/henry-nguyen0/)
-[![website](https://img.shields.io/badge/Personal%20Website-tinyurl.com/henryng/-purple?style=flat-square&logo=Vercel)](https://my-portfolio-lyart-nine-24.vercel.app)
+[![website](https://img.shields.io/badge/Personal%20Website-tinyurl.com/henryng/-purple?style=flat-square&logo=Vercel)](https://henryng.vercel.app)
 
 <!--Intro start-->
 - 🏫 I'm currently studying Bachelor of IT at the University of South Australia
@@ -18,11 +18,11 @@
 
 - 👑 I also love to compete in programming competitions, like hackathons, algo trading, or competitive programming.
 
-- 📝 I'm planning to write articles on my [personal website](https://my-portfolio-lyart-nine-24.vercel.app)
+- 📝 I'm planning to write articles on my [personal website](https://henryng.vercel.app)
 
 - 💬 Ask me about **Competitive Programming, AWS, React, Nodejs, MongoDB**
 
-- 📫 I'm currently looking for grad/junior roles. So if you know any role, feel free to reach me out throuh my personal email **hungnguyenquoc8a2@gmail.com**, I would appreciate that.
+- 📫 I'm currently looking for grad/junior roles. So if you know any role, feel free to reach me out throuh my personal email **henryng.tech.dev@gmail.com**, I would appreciate that.
 <!--Intro end-->
 
 

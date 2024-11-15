@@ -2,7 +2,7 @@
 
 |     |  |   |
 | :- | :-: | -: |
-| hungnguyenquoc8a2@gmail.com <br> +61491733853  | Portfolio: [henryng.vercel.app](https://henryng.vercel.app/about) <br> Adelaide, Australia | [linkedin.com/in/henry-nguyen0/](https://linkedin.com/in/henry-nguyen0/) <br> [github.com/HenryNg101](https://github.com/HenryNg101) |
+| henryng.tech.dev@gmail.com <br> +61491733853  | Portfolio: [henryng.vercel.app](https://henryng.vercel.app/about) <br> Adelaide, Australia | [linkedin.com/in/henry-nguyen0/](https://linkedin.com/in/henry-nguyen0/) <br> [github.com/HenryNg101](https://github.com/HenryNg101) |
 
 ## EDUCATION
 
@@ -22,25 +22,17 @@ Bachelor of Information Technology (Software Development) with International Mer
 | :-------- | -: |
 | **Software Engineer Intern - Optimatics** | **Mar 2024 - Jun 2024** |
 
-- Technologies: **C# (Nant, Cake Frosting), Powershell, .NET, TeamCity**
-- Led the migration of build scripts and configs for EABench's CI/CD pipeline, improving efficiency and maintainability, while collaborated with the development team to manage and streamline build processes
+- Spearheaded the migration of the **CI/CD pipeline** for EABench, moving from legacy**Powershell** scripts and **Nant** configs to a more streamlined **C# Cake**-based approach, built on the **.NET** framework. This transition improved maintainability, debugging, and scalability of the build process.
+- Optimized the **CI/CD pipeline** for EABench by integrating it with**TeamCity**, automating key processes such as build orchestration, authentication, testing, dependencies management and installation.
+- Collaborated closely with the development team to identify and resolve issues in the build pipeline, ensuring reliable deployments and faster delivery of features.
 
 |     |  |
 | :-------- | -: |
 | **Fullstack Software Engineer Intern - Maptek** | **Nov 2022 - Feb 2023** |
 
-- Technologies: **React, Typescript, AWS (CloudFormation, DynamoDB, S3, RDS, etc.), Flask, Docker**
-- Developed a comprehensive dashboard to monitor internal tools and products, serving approximately**20,000** users and improving operational visibility.
-- Spearheaded the creation of detailed documentation, which enhanced team development efficiency and streamlined the onboarding process for new hires.
-
-## TECHNICAL SKILLS
-
----
-
-- **Languages**: C++, Python, C#, Javascript, Java
-- **Web development**: ASP.NET, Bootstrap, NodeJS, Vercel, Spring Boot, Gradle
-- **Database**: MongoDB, Microsoft SQL, Redis, PL/SQL
-- **Others**: AWS, Postman, Jupyter Notebook, Collaboration Tools (Git, Jira, Confluence, etc.)
+- Designed and implemented a monitoring dashboard for the **Maptek Account** system, enhancing visibility into internal microservices and daemons to improve issue resolution for approximately **20,000** users.  
+- Built the dashboard's frontend with **React** and **TypeScript**, and developed backend APIs with **Flask** (**Python**) to process metrics from **DynamoDB** and **TimestreamDB** via the **AWS SDK**. Integrated these components into the **Docker**-managed Maptek Account codebase and used **CloudFormation** for consistent and efficient resource deployment. 
+- Initiated and authored documentation to improve development workflows and streamline the onboarding process.  
 
 ## PROJECTS
 
@@ -48,18 +40,18 @@ Bachelor of Information Technology (Software Development) with International Mer
 
 |     |  |
 | :-------- | -: |
-| **Portfolio Website** ([hrn.vercel.app/projects?id=1](https://hrn.vercel.app/projects?id=1)) | **Nov 2023** |
+| **Portfolio Website** ([hrn.vercel.app/projects/1](https://hrn.vercel.app/projects/1)) | **Nov 2023** |
 
-- Technologies: **Spring Java, React, MongoDB Atlas, Vercel, Azure**
-- Crafted a website from scratch, to share my portfolio and write some blogs. Currently in progress, it features a partially implemented backend hosted on Azure with a MongoDB Atlas cloud database
-- Future enhancements will focus on completing the backend architecture and implementing NLP features for advanced blog content summarization
+- Designed and developed a personal portfolio website to showcase projects, skills, and contact information, using **React** and **Typescript**, then migrated to **NextJS** for server-side rendering and improved performance.
+- Implemented a fully responsive design to ensure optimal usability of the web app across different devices and screen sizes, and deployed the application via **Vercel** for seamless CI/CD integration and reliable hosting.
 
 |     |  |
 | :-------- | -: |
-| **Freight Frenzy Scoring App** ([hrn.vercel.app/projects?id=3](https://hrn.vercel.app/projects?id=3)) | **Nov 2021** |
+| **Freight Frenzy Scoring App** ([hrn.vercel.app/projects/3](https://hrn.vercel.app/projects/3)) | **Nov 2021** |
 
-- Technologies: **Swift, Kotlin, Google Maps API**
-- Built a mobile app for FIRST Tech Challenge robotics competition that works on iOS and Android. The app manages user registration, game scoring, and lets users check and submit global high scores
+- Developed native mobile apps for the **FIRST Tech Challenge** robotics competition, building separate codebases for **iOS** (**Swift**) and **Android** (**Kotlin**) to manage user registration, game scoring, and global high scores.
+- Integrated **Google Maps API** for user location registration and leveraged a custom **REST API** sever to implemented global high score functionality with real-time data.
+- Optimized the app’s layout for a variety of screen sizes and orientations, improving responsiveness across devices.  
 
 ## COMMUNITY ENGAGEMENT & AWARDS
 
@@ -72,10 +64,10 @@ Won the **first place** in the Advent of Code’s private leaderboard created by
 
 |     |  |
 | :-------- | -: |
-| **Competitive Programming Club of the University of Adelaide** ([hrn.vercel.app/projects?id=2](https://hrn.vercel.app/projects?id=2)) | **Nov 2023 - Current** |
+| **Competitive Programming Club of the University of Adelaide** ([hrn.vercel.app/projects/2](https://hrn.vercel.app/projects/2)) | **Nov 2023 - Current** |
 Refactored, modernised, and maintained the codebase for the club’s website, serving approximately 100 monthly users. Developed the **React** frontend from scratch, with a registered domain on **Cloudflare**, and hosted on **Vercel**
 
 |     |  |
 | :-------- | -: |
-| **UNIHACK Hackathon - MedBuddy** ([hrn.vercel.app/projects?id=4](https://hrn.vercel.app/projects?id=4)) | **Feb 2022** |
-Teamed up with some developers for the UNIHACK 2022 hackathon to create a health-focused Android app that utilised ML technologies. I mainly contributed to the UI of the app, and hooked up the backend with REST APIs. (**Dart, Flutter**)
+| **UNIHACK Hackathon - MedBuddy** ([hrn.vercel.app/projects/4](https://hrn.vercel.app/projects/4)) | **Feb 2022** |
+Collaborated with a team of developers to design and develop a health-focused Android app using**Flutter** framework and **Dart** programming language, leveraging machine learning technologies. Contributed primarily to the UI design and integrated the backend with REST APIs to ensure seamless functionality
