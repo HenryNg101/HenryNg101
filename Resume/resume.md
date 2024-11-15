@@ -42,7 +42,7 @@ Bachelor of Information Technology (Software Development) with International Mer
 | :-------- | -: |
 | **Portfolio Website** ([hrn.vercel.app/projects/1](https://hrn.vercel.app/projects/1)) | **Nov 2023** |
 
-- Designed and developed a personal portfolio website to showcase projects, skills, and contact information, using **React** and **Typescript**, and **NextJS** for server-side rendering and improved performance.
+- Designed and developed a personal portfolio website to showcase projects, skills, and contact information, using **React**, **Typescript**, and **NextJS** for server-side rendering and improved performance.
 - Implemented a fully responsive design to ensure optimal usability of the web app across different devices and screen sizes, and deployed the application via **Vercel** for seamless CI/CD integration and reliable hosting.
 
 |     |  |
