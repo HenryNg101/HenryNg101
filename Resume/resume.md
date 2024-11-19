@@ -23,7 +23,7 @@ Bachelor of Information Technology (Software Development) with International Mer
 | **Software Engineer Intern - Optimatics** | **Mar 2024 - Jun 2024** |
 
 - Spearheaded the migration of the **CI/CD pipeline** for EABench, moving from legacy **Powershell** scripts and **Nant** configs to a more streamlined **C# Cake**-based approach, built on the **.NET** framework. This transition improved maintainability, debugging, and scalability of the build process.
-- Integrated the build process with with **TeamCity**, automating key processes such as build orchestration, authentication, testing, dependencies management and installation.
+- Integrated the build process with **TeamCity**, automating key processes such as build orchestration, authentication, testing, dependencies management and installation.
 - Collaborated closely with the development team to identify and resolve issues in the build pipeline, ensuring reliable deployments and faster delivery of features.
 
 |     |  |
