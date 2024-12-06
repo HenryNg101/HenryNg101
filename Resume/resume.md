@@ -41,16 +41,15 @@ Bachelor of Information Technology (Software Development) with International Mer
 | :-------- | -: |
 | **Portfolio Website** ([hrn.vercel.app/projects/1](https://hrn.vercel.app/projects/1)) | **Nov 2023** |
 
-- Designed and developed a personal portfolio website to showcase projects, skills, and contact information, using **React**, **Typescript**, and **NextJS** for server-side rendering and improved performance
-- Implemented a fully responsive design to ensure optimal usability of the web app across different devices and screen sizes, and deployed the application via **Vercel** for seamless CI/CD integration and reliable hosting
+- Designed and developed a responsive portfolio website to showcase my developer profile, using **React**, **Typescript**, and **NextJS** for server-side rendering and improved performance, and deployed it via **Vercel**
+- Dynamically retrieves the latest version of the CV via the GitHub API, which was generated and deployed as release artifacts through a custom **GitHub Actions** CI/CD pipeline that I wrote
 
 |     |  |
 | :-------- | -: |
 | **Freight Frenzy Scoring App** ([hrn.vercel.app/projects/3](https://hrn.vercel.app/projects/3)) | **Nov 2021** |
 
-- Developed native mobile apps for the **FIRST Tech Challenge** robotics competition, building separate codebases for **iOS** (**Swift**) and **Android** (**Kotlin**) to manage user registration, game scoring, and global high scores
-- Integrated **Google Maps API** for user location registration and leveraged a custom **REST API** sever to implemented global high score functionality with real-time data
-- Optimized the app’s layout for a variety of screen sizes and orientations, improving responsiveness across devices
+- Developed mobile apps to help student robotics teams in the **FIRST Tech Challenge** competition calculate game scores, manage team registration, etc. Codebases were built for both iOS (**Swift**) and Android (**Kotlin**) platforms
+- Integrated **Google Maps API** for user location registration and leveraged a custom **REST API** sever to implemented global high score tracking with real-time data. The app’s layout was also optimized for a variety of screen sizes and orientations, improving responsiveness across devices
 
 ## COMMUNITY ENGAGEMENT & AWARDS
 
