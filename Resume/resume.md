@@ -29,13 +29,20 @@ Bachelor of Information Technology (Software Development) with International Mer
 | :-------- | -: |
 | **Fullstack Software Engineer Intern - Maptek** | **Nov 2022 - Feb 2023** |
 
-- Designed and implemented a monitoring dashboard for the Maptek Account system, enhancing visibility into internal microservices and daemons to improve issue resolution for approximately **20,000** users
+- Designed and implemented a monitoring dashboard for the Maptek Account system, enhancing visibility into internal microservices and daemons to improve issue resolution for approximately **20,000 users**
 - Built the dashboard's frontend with **React** and **TypeScript**, and backend with **Flask** (**Python**) to process metrics from **DynamoDB** and **TimestreamDB** via **AWS SDK**. Integrated these components into the **Docker**-managed Maptek Account codebase and used **CloudFormation** for consistent and efficient resource deployment
 - Initiated and authored documentation to improve development workflows and streamline the onboarding process
 
 ## PROJECTS
 
 ---
+
+|     |  |
+| :-------- | -: |
+| **Advent of Code algo analysis** ([github.com/HenryNg101/Advent-of-Code-solutions](https://github.com/HenryNg101/Advent-of-Code-solutions)) | **Jan 2025**|
+
+- Solved Advent of Code problems using optimized data structures and **Rust**’s language features for high-performance solutions, achieving an average **10x speedup** over respective **Python** solutions (benchmarked with **Hyperfine**)
+- Won **first place** in Optimatics’s 2023 Advent of Code competition
 
 |     |  |
 | :-------- | -: |
@@ -49,7 +56,7 @@ Bachelor of Information Technology (Software Development) with International Mer
 | **Freight Frenzy Scoring App** ([hrn.vercel.app/projects/3](https://hrn.vercel.app/projects/3)) | **Nov 2021** |
 
 - Developed mobile apps to help student robotics teams in the **FIRST Tech Challenge** competition calculate game scores, manage team registration, etc. Codebases were built for both iOS (**Swift**) and Android (**Kotlin**) platforms
-- Integrated **Google Maps API** for user location registration and leveraged a custom **REST API** sever to implemented global high score tracking with real-time data. The app’s layout was also optimized for a variety of screen sizes and orientations, improving responsiveness across devices
+- Integrated **Google Maps API** for user location registration and leveraged a custom **REST API** sever to implement global high score tracking with real-time data
 
 ## COMMUNITY ENGAGEMENT & AWARDS
 
@@ -57,13 +64,8 @@ Bachelor of Information Technology (Software Development) with International Mer
 
 |     |  |
 | :-------- | -: |
-| **Optimatics Coding Challenge** | **Dec 2023** |
-Won the **first place** in Optimatic's Advent of Code competition
-
-|     |  |
-| :-------- | -: |
 | **Competitive Programming Club of the University of Adelaide** ([hrn.vercel.app/projects/2](https://hrn.vercel.app/projects/2)) | **Nov 2023 - Current** |
-Refactored, modernised, and maintained the codebase for the club’s website, serving approximately 100 monthly users. Developed the **React** frontend from scratch, with a registered domain on **Cloudflare**, and hosted on **Vercel**
+Refactored, modernised, and maintained the codebase for the club’s website, serving **approximately 100 monthly users**. Developed the **React** frontend from scratch, with a registered domain on **Cloudflare**, and hosted on **Vercel**
 
 |     |  |
 | :-------- | -: |

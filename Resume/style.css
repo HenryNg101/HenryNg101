@@ -10,7 +10,7 @@ h1 {
 hr {
     margin-top: 0;
 }
-h2, p{
+h2{
     margin-bottom: 5px;
 }
 p {
@@ -18,5 +18,5 @@ p {
 }
 /* Consistent text size between smaller text elements (i.e. exclude headers) */
 strong, li, a, p, table {
-    font-size: large;
+    font-size: 103%;
 }
