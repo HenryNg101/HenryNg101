@@ -11,10 +11,10 @@ hr {
     margin-top: 0;
 }
 h2{
-    margin-bottom: 5px;
+    margin-bottom: 3px;
 }
 p {
-    margin-top: 5px;
+    margin-top: 3px;
 }
 /* Consistent text size between smaller text elements (i.e. exclude headers) */
 strong, li, a, p, table {
