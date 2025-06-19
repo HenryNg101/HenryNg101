@@ -29,9 +29,14 @@ Bachelor of Information Technology (Software Development) with International Mer
 | :-------- | -: |
 | **Fullstack Software Engineer Intern - Maptek** | **Nov 2022 - Feb 2023** |
 
-- Designed and implemented a monitoring dashboard for the Maptek Account system, supporting **20,000 users**
+<!-- - Designed and implemented a monitoring dashboard for the Maptek Account system, supporting **20,000 users**
 - Built the dashboard's frontend with **React** and **TypeScript**, and backend with **Flask** (**Python**) to process metrics from **DynamoDB** and **TimestreamDB** via **AWS SDK**. Integrated these components into the **Docker**-managed Maptek Account codebase and used **CloudFormation** for consistent and efficient resource deployment
-- Initiated and authored documentation to improve development workflows and streamline the onboarding process
+- Initiated and authored documentation to improve development workflows and streamline the onboarding process -->
+
+- Built a monitoring dashboard for internal daemons supporting **20,000+** Maptek Account users, significantly improving observability and incident response for tech support.
+- Developed a metrics ingestion pipeline using **TimestreamDB**, **DynamoDB**, and **AWS SDK** in a **Flask** backend, then exposed APIs to a **React** + **TypeScript** frontend for dashboard visualization.
+- Provisioned AWS infrastructure using **CloudFormation** (e.g., scheduled queries, **SNS/S3** logging) and deployed services via **Docker**, **ECR**, and internal CI/CD, while also bootstrapped a multi-container local environment with Docker compose and custom networked services for production parity (e.g., MongoDB container).
+- Delivered a live demo to the company and authored internal documentation on system architecture, deployment workflows, and onboarding for future engineers.
 
 ## PROJECTS
 
