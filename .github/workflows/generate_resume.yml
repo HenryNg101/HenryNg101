@@ -20,7 +20,8 @@ jobs:
       - name: Set up Pandoc and wkhtmltopdf engine
         run: |
           brew install pandoc
-          brew install wkhtmltopdf
+          curl -L -o wkhtmltox.pkg https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-2/wkhtmltox-0.12.6-2.macos-cocoa.pkg
+          sudo installer -pkg wkhtmltox.pkg -target /
 
       - name: Getting tools versions
         run: |
