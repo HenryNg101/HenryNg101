@@ -4,43 +4,36 @@ on:
   push:
     branches:
       - master  # Trigger on pushes to the master branch
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4.2.2
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Set up Pandoc and wkhtmltopdf engine
-        run: |
-          brew install pandoc
-          curl -L -o wkhtmltox.pkg https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-2/wkhtmltox-0.12.6-2.macos-cocoa.pkg
-          sudo installer -pkg wkhtmltox.pkg -target /
+      - name: Install make (if needed)
+        run: sudo apt-get update && sudo apt-get install -y make
 
-      - name: Getting tools versions
-        run: |
-          pandoc --version
-          wkhtmltopdf --version
+      - name: Build and generate resume
+        run: make all
 
-      - name: Run compile script
+      - name: Set and create tag
         run: |
-          cd Resume
-          . ./compile.sh
-
-      - name: Set and create Tag
-        run: |
-          echo "TAG_NAME=v$(date +'%Y-%m-%d-%H-%M-%S')" >> $GITHUB_ENV
-          git tag ${{ env.TAG_NAME }}
-          git push origin ${{ env.TAG_NAME }}
+          TAG_NAME=v$(date +'%Y-%m-%d-%H-%M-%S')
+          echo "TAG_NAME=$TAG_NAME" >> $GITHUB_ENV
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git tag $TAG_NAME
+          git push origin $TAG_NAME
 
       - name: Release artifacts
         uses: softprops/action-gh-release@v2
         with:
-          files: "./Resume/Henry_Nguyen_resume.pdf"
+          files: "./Resume/Quoc_Hung_Nguyen_resume.pdf"
           tag_name: ${{ env.TAG_NAME }}

@@ -11,12 +11,12 @@ hr {
     margin-top: 0;
 }
 h2{
-    margin-bottom: 3px;
+    margin-bottom: 1.5px;
 }
 p {
-    margin-top: 3px;
+    margin-top: 2px;
 }
 /* Consistent text size between smaller text elements (i.e. exclude headers) */
 strong, li, a, p, table {
-    font-size: 103%;
+    font-size: 101%;
 }

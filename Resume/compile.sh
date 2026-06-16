@@ -1,4 +1,4 @@
-pandoc "resume.md" -o "Henry_Nguyen_resume.pdf" \
+pandoc "resume.md" -o "Quoc_Hung_Nguyen_resume.pdf" \
     --css="style.css" \
     --pdf-engine=wkhtmltopdf \
     --pdf-engine-opt="--enable-local-file-access" \
