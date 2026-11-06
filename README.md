@@ -75,7 +75,7 @@ Kubernetes · CI/CD · Infrastructure as Code · Observability · Site Reliabili
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenryNg101&show_icons=true&theme=github_dark&hide_border=true" alt="Henry's GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=HenryNg101&show_icons=true&theme=github_dark&hide_border=true" alt="Henry's GitHub statistics" />
 </p>
 
 <details>
