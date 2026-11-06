@@ -1,78 +1,100 @@
+# Hey, I'm Henry Nguyen! 👋
 
-<!--horizontal divider(gradiant)-->
+**Backend Software Engineer | Distributed Systems | DevOps & SRE**
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Henry. Welcome to my Github</h1></summary>
-  </ul>
-</div>
+I'm a software engineer based in Hanoi, Vietnam, with a focus on backend development and an interest in distributed systems, infrastructure, and reliability engineering.
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-Henry%20Nguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-nguyen0/)](https://www.linkedin.com/in/henry-nguyen0/)
-[![website](https://img.shields.io/badge/Personal%20Website-tinyurl.com/henryng/-purple?style=flat-square&logo=Vercel)](https://henryng.vercel.app)
+I enjoy understanding how systems work beyond the application layer — from APIs, databases, and messaging systems to containerization, observability, and deployment.
 
-<!--Intro start-->
-- 🏫 I'm currently studying Bachelor of IT at the University of South Australia
+My goal is to build software that is not only functional, but also **reliable, maintainable, and observable**.
 
-- ☁️ I've keen interest in fullstack development and competitive programming. So,I'm learning more about **React, Typescript, Java** (and some other technologies)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-nguyen0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://henryng.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:henryng.tech.dev@gmail.com)
 
-- 👑 I also love to compete in programming competitions, like hackathons, algo trading, or competitive programming.
+## 👨‍💻 About Me
 
-- 📝 I'm planning to write articles on my [personal website](https://henryng.vercel.app)
+- 💼 **Backend Engineering:** Working with C#/.NET and Go, building backend services and APIs.
+- 🛡️ **Previous Experience:** Completed a six-month Backend Software Engineering traineeship at **Viettel Cybersecurity (VCS)** (Hanoi), and a Fullstack Software Engineer Intern at **Maptek** (Adelaide).
+- 🎓 **Education:** Bachelor of Information Technology (Software Development), University of South Australia.
+- ⚙️ **Engineering Interests:** Distributed systems, databases, asynchronous processing, performance optimization, and system design.
+- ☁️ **Currently Exploring:** Kubernetes, CI/CD, infrastructure automation, observability, and SRE practices.
+- 🧩 **Beyond Work:** Competitive programming, hackathons, and learning how complex systems operate.
 
-- 💬 Ask me about **Competitive Programming, AWS, React, Nodejs, MongoDB**
+## 🚀 Featured Project
 
-- 📫 I'm currently looking for grad/junior roles. So if you know any role, feel free to reach me out throuh my personal email **henryng.tech.dev@gmail.com**, I would appreciate that.
-<!--Intro end-->
+### [SMS-X — Server Management System](https://github.com/HenryNg101/Server-Management-System)
 
+A Go-based server management and monitoring platform built to explore backend scalability, distributed processing, and infrastructure observability.
 
+**Core functionality**
+- Server inventory management, filtering, and reporting
+- Agent-based collection of server and container metrics
+- Asynchronous CSV import workflows with Kafka
+- Metrics ingestion and storage in Elasticsearch
+- JWT authentication, role-based access control, and REST APIs
+- Containerized services and development infrastructure using Docker Compose
 
-<!--- stats & Trophy (start) -->
+**Tech Stack**
+
+`Go` · `PostgreSQL` · `Redis` · `Kafka` · `Elasticsearch` · `MinIO` · `Docker` · `Traefik`
+
+**Engineering Highlights**
+- Designed concurrent server monitoring using Go worker pools.
+- Optimized bulk PostgreSQL updates to reduce database operation latency.
+- Implemented Kafka-based asynchronous job and metrics processing.
+- Built a Go monitoring agent using Docker APIs and Linux cgroup metrics.
+- Integrated multiple infrastructure components for storage, messaging, authentication, and observability.
+
+**Status:** Actively developed. Working on automated testing, operational reliability, CI/CD, and improved observability.
+
+📂 **[Source Code & Documentation](https://github.com/HenryNg101/Server-Management-System)** · **[System Design](https://github.com/HenryNg101/Server-Management-System/blob/master/DESIGN.md)**
+
+## 🛠️ Technical Stack
+
+### Languages
+
+![Languages](https://skillicons.dev/icons?i=go,cs,py,js,ts&perline=8)
+
+### Backend Development
+
+Go (Gin) · C# / ASP.NET Core · REST APIs · gRPC · Microservices
+
+### Databases, Messaging & Search
+
+![Data](https://skillicons.dev/icons?i=postgres,redis,kafka,elasticsearch,mongodb,mysql&perline=8)
+
+### Infrastructure & Tools
+
+![Infrastructure](https://skillicons.dev/icons?i=docker,linux,aws,git,github,githubactions&perline=8)
+
+### Currently Learning & Exploring
+
+Kubernetes · CI/CD · Infrastructure as Code · Observability · Site Reliability Engineering
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-  <td width="50%" align="center">
-    <img  align="center"  src="https://leetcard.jacoblin.cool/HenryNguyen101?theme=dark&font=ABeeZee&ext=heatmap" />
-    <br></br>
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HenryNg101&theme=dark&show_icons=true&count_private=true" />
-    <br></br>
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HenryNg101&theme=dark&hide_border=false" /> 
-  </td>
-  
-  <td width="50%" align="center">
-    <br></br>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HenryNg101&theme=dark" alt="1999AZZAR :: Top Langs by repo" />
-    <br></br>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HenryNg101&theme=dark" alt="1999AZZAR :: Top Langs by commit" />
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=HenryNg101&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,go,bootstrap,c,cpp,css,discord,docker,dynamodb,express,github,html,java,js,kotlin,swift,linux,md,materialui,mongodb,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode&perline=14" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=HenryNg101&show_icons=true&theme=github_dark&hide_border=true" alt="Henry's GitHub statistics" />
 </p>
+
+<details>
+<summary>🧩 Competitive Programming & Other Projects</summary>
+
+I also enjoy algorithms, programming challenges, and exploring computer science fundamentals.
+
+- [Advent of Code Solutions](https://github.com/HenryNg101/Advent-of-Code-solutions)
+- [Nand2Tetris](https://github.com/HenryNg101/Nand2Tetris-solution)
+- [CTF Write-ups](https://github.com/HenryNg101/ctf-write-ups)
+
+</details>
+
+## 📫 Let's Connect
+
+I'm always happy to connect with other engineers, discuss technical ideas, and explore opportunities in backend engineering, DevOps, and SRE.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/henry-nguyen0/)
+- 🌐 [Personal Website](https://henryng.vercel.app)
+- ✉️ **henryng.tech.dev@gmail.com**
+
+*Thanks for stopping by!*
